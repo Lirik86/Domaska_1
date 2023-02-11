@@ -1,0 +1,15 @@
+C:\Users\Lirik\Desktop\Кирилл\Обучение\Язык программирования С#\domaska_11\zadabie_1\bin\Debug\net6.0\zadabie_1.exe
+C:\Users\Lirik\Desktop\Кирилл\Обучение\Язык программирования С#\domaska_11\zadabie_1\bin\Debug\net6.0\zadabie_1.deps.json
+C:\Users\Lirik\Desktop\Кирилл\Обучение\Язык программирования С#\domaska_11\zadabie_1\bin\Debug\net6.0\zadabie_1.runtimeconfig.json
+C:\Users\Lirik\Desktop\Кирилл\Обучение\Язык программирования С#\domaska_11\zadabie_1\bin\Debug\net6.0\zadabie_1.dll
+C:\Users\Lirik\Desktop\Кирилл\Обучение\Язык программирования С#\domaska_11\zadabie_1\bin\Debug\net6.0\zadabie_1.pdb
+C:\Users\Lirik\Desktop\Кирилл\Обучение\Язык программирования С#\domaska_11\zadabie_1\obj\Debug\net6.0\zadabie_1.csproj.AssemblyReference.cache
+C:\Users\Lirik\Desktop\Кирилл\Обучение\Язык программирования С#\domaska_11\zadabie_1\obj\Debug\net6.0\zadabie_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lirik\Desktop\Кирилл\Обучение\Язык программирования С#\domaska_11\zadabie_1\obj\Debug\net6.0\zadabie_1.AssemblyInfoInputs.cache
+C:\Users\Lirik\Desktop\Кирилл\Обучение\Язык программирования С#\domaska_11\zadabie_1\obj\Debug\net6.0\zadabie_1.AssemblyInfo.cs
+C:\Users\Lirik\Desktop\Кирилл\Обучение\Язык программирования С#\domaska_11\zadabie_1\obj\Debug\net6.0\zadabie_1.csproj.CoreCompileInputs.cache
+C:\Users\Lirik\Desktop\Кирилл\Обучение\Язык программирования С#\domaska_11\zadabie_1\obj\Debug\net6.0\zadabie_1.dll
+C:\Users\Lirik\Desktop\Кирилл\Обучение\Язык программирования С#\domaska_11\zadabie_1\obj\Debug\net6.0\refint\zadabie_1.dll
+C:\Users\Lirik\Desktop\Кирилл\Обучение\Язык программирования С#\domaska_11\zadabie_1\obj\Debug\net6.0\zadabie_1.pdb
+C:\Users\Lirik\Desktop\Кирилл\Обучение\Язык программирования С#\domaska_11\zadabie_1\obj\Debug\net6.0\zadabie_1.genruntimeconfig.cache
+C:\Users\Lirik\Desktop\Кирилл\Обучение\Язык программирования С#\domaska_11\zadabie_1\obj\Debug\net6.0\ref\zadabie_1.dll
